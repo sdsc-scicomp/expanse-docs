@@ -1,0 +1,18 @@
+site_name: Expanse Supercomputer User Guide
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Technical Summary: technical_summary.md
+  - System Access: system_access.md
+  - Modules: modules.md
+  - Account Management: account_management.md
+  - Job Charging: job_charging.md
+  - Compiling Codes: compiling_codes.md
+  - Running Jobs on Expanse: running_jobs_on_expanse.md
+  - Using GPU Nodes: using_gpu_nodes.md
+  - Data Movement: data_movement.md
+  - Storage: storage.md
+  - Composable Systems: composable_systems.md
+  - Software: software.md
+  - Citations & Publications: citations_and_publications.md
