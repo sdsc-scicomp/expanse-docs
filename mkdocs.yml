@@ -23,7 +23,6 @@ nav:
   - Citations and Publications: citations_and_publications.md
 plugins:
   - search
-extra:
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
