@@ -4,6 +4,8 @@ repo_url: https://github.com/sdsc-scicomp/expanse-docs
 edit_uri: https://github.com/sdsc-scicomp/expanse-docs/edit/main/docs/
 theme:
   name: material
+  features:
+    - content.action.edit
 nav:
   - Home: index.md
   - Technical Summary: technical_summary.md
