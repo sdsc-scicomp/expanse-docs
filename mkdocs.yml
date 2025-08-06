@@ -4,7 +4,7 @@ repo_url: https://github.com/sdsc-scicomp/expanse-docs
 edit_uri: https://github.com/sdsc-scicomp/expanse-docs/edit/main/docs/
 theme:
   name: material
-  logo: assets/SDSC-logo.svg
+  logo: assets/SDSC gold white.png
   features:
     - content.action.edit
 nav:
