@@ -24,9 +24,6 @@ nav:
 plugins:
   - search
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/sdsc-scicomp/expanse-docs
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
