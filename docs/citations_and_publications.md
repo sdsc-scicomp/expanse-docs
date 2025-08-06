@@ -2,7 +2,7 @@
 
 * * *
 ### How to cite Expanse
-We request that you cite your use of the Expanse with the following citation format, and modified as needed to conform with citation style guidelines. Most importantly, please include the Digital Object Identifier (DOI) — <https://doi.org/10.1145/3437359.3465588> — that is unique to Expanse.
+We request that you cite your use of the Expanse with the following citation format, and modified as needed to conform with citation style guidelines. Most importantly, please include the Digital Object Identifier (DOI) --- <https://doi.org/10.1145/3437359.3465588> --- that is unique to Expanse.
 ### Example
 `San Diego Supercomputer Center (2025): Expanse. University of California San Diego. Service. https://doi.org/10.1145/3437359.3465588`
 ### Publications

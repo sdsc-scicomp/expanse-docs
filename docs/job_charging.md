@@ -1,6 +1,7 @@
 # Job Charging
 
 The charge unit for all SDSC machines, including Expanse, is the Service Unit (SU). This corresponds to the equivalent use of one compute core utilizing less than or equal to 2G of data for one hour, or 1 GPU using less than 92G of data for 1 hour. Keep in mind that your charges are based on the resources that are tied up by your job and don't necessarily reflect how the resources are used. Charges on jobs submitted to the 'shared' partitions (shared,gpu-shared,debug,gpu-debug,large-shared) are based on either the number of cores or the fraction of the memory requested, whichever is larger. Jobs submitted to the node-exclusive partitions (compute, gpu) will be charged for the all 128 cores, whether the resources are used or not. The minimum charge for any job is 1 SU.
+
 ### Job Charge Considerations
   * A node-exclusive job that runs on a compute node for one hour will be charged 128 SUs (128 cores x 1 hour)
   * A node-exclusive job that runs on a GPU node for one hour will be charge 4GPU hours (4 GPU x 1 hour)
