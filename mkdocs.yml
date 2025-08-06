@@ -1,4 +1,7 @@
 site_name: Expanse Supercomputer User Guide
+site_url: https://sdsc-scicomp.github.io/expanse-docs/
+repo_url: https://github.com/sdsc-scicomp/expanse-docs
+edit_uri: https://github.com/sdsc-scicomp/expanse-docs/edit/main/docs/
 theme:
   name: material
 nav:
@@ -16,3 +19,13 @@ nav:
   - Composable Systems: composable_systems.md
   - Software: software.md
   - Citations & Publications: citations_and_publications.md
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sdsc-scicomp/expanse-docs
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
