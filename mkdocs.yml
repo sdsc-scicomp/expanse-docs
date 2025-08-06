@@ -18,7 +18,7 @@ nav:
   - Storage: storage.md
   - Composable Systems: composable_systems.md
   - Software: software.md
-  - Citations & Publications: citations_and_publications.md
+  - Citations and Publications: citations_and_publications.md
 plugins:
   - search
 extra:
