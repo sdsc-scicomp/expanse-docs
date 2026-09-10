@@ -14,8 +14,10 @@ The limits for each partition are noted in the table below. _Partition limits ar
 | ind-shared | 48 hrs | 1 | 2048 | 2048 | 1 | Single-node Industry jobs using fewer than 128 cores |
 | gpu | 48 hrs | 4 | 4 | 8 (32 Tres GPU) | 1 | Used for exclusive access to the GPU nodes |
 | ind-gpu | 48 hrs | 4 | 4 | 4 (8 Tres GPU) | 1 | Exclusive access to the Industry GPU nodes |
+| nairr-gpu | 48 hrs | 4 | 4 | 8 (32 Tres GPU) | 1 | Exclusive access to the NAIRR GPU nodes |
 | gpu-shared | 48 hrs | 1 | 24 | 24 (24 Tres GPU) | 1 | Single-node job using fewer than 4 GPUs |
 | ind-gpu-shared | 48 hrs | 1 | 24 | 24 (24 Tres GPU) | 1 | Single-node job using fewer than 4 Industry GPUs |
+| nairr-gpu-shared | 48 hrs | 1 | 16 | 16 (16 Tres GPU) | 1 | Single-node job using fewer than 4 NAIRR GPUs |
 | large-shared | 48 hrs | 1 | 1 | 4 | 1 | Single-node jobs using large memory up to 2 TB (minimum memory required 256G) |
 | debug | 30 min | 2 | 1 | 2 | 1 | Priority access to shared nodes set aside for testing of jobs with short walltime and limited resources |
 | gpu-debug | 30 min | 2 | 1 | 2 | 1 | Priority access to gpu-shared nodes set aside for testing of jobs with short walltime and limited resources; _max two gpus per job_ |

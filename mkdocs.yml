@@ -17,6 +17,7 @@ nav:
   - Compiling Codes: compiling_codes.md
   - Running Jobs on Expanse: running_jobs_on_expanse.md
   - Using GPU Nodes: using_gpu_nodes.md
+  - Expanse AI Resource: expanse_ai_resource.md
   - Data Movement: data_movement.md
   - Storage: storage.md
   - Composable Systems: composable_systems.md
