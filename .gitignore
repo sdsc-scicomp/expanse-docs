@@ -3,4 +3,4 @@ site
 obsolete
 .venv
 node_modules
-.lighthouseci
+lighthouse-report

@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_-2026_09_10_05_19_47.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_-2026_09_10_05_19_47.report.json",
+    "summary": {
+      "accessibility": 0.83
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/account_management/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_account_management_-2026_09_10_05_20_02.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_account_management_-2026_09_10_05_20_02.report.json",
+    "summary": {
+      "accessibility": 0.79
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/citations_and_publications/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_citations_and_publications_-2026_09_10_05_20_16.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_citations_and_publications_-2026_09_10_05_20_16.report.json",
+    "summary": {
+      "accessibility": 0.83
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/compiling_codes/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_compiling_codes_-2026_09_10_05_20_29.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_compiling_codes_-2026_09_10_05_20_29.report.json",
+    "summary": {
+      "accessibility": 0.8
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/composable_systems/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_composable_systems_-2026_09_10_05_20_44.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_composable_systems_-2026_09_10_05_20_44.report.json",
+    "summary": {
+      "accessibility": 0.83
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/data_movement/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_data_movement_-2026_09_10_05_20_57.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_data_movement_-2026_09_10_05_20_57.report.json",
+    "summary": {
+      "accessibility": 0.84
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/expanse_ai_resource/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_expanse_ai_resource_-2026_09_10_05_21_11.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_expanse_ai_resource_-2026_09_10_05_21_11.report.json",
+    "summary": {
+      "accessibility": 0.81
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/job_charging/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_job_charging_-2026_09_10_05_21_25.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_job_charging_-2026_09_10_05_21_25.report.json",
+    "summary": {
+      "accessibility": 0.83
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/modules/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_modules_-2026_09_10_05_21_39.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_modules_-2026_09_10_05_21_39.report.json",
+    "summary": {
+      "accessibility": 0.8
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/running_jobs_on_expanse/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_running_jobs_on_expanse_-2026_09_10_05_21_52.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_running_jobs_on_expanse_-2026_09_10_05_21_52.report.json",
+    "summary": {
+      "accessibility": 0.8
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/software/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_software_-2026_09_10_05_22_07.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_software_-2026_09_10_05_22_07.report.json",
+    "summary": {
+      "accessibility": 0.83
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/storage/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_storage_-2026_09_10_05_22_20.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_storage_-2026_09_10_05_22_20.report.json",
+    "summary": {
+      "accessibility": 0.8
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/system_access/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_system_access_-2026_09_10_05_22_34.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_system_access_-2026_09_10_05_22_34.report.json",
+    "summary": {
+      "accessibility": 0.79
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/technical_summary/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_technical_summary_-2026_09_10_05_22_48.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_technical_summary_-2026_09_10_05_22_48.report.json",
+    "summary": {
+      "accessibility": 0.84
+    }
+  },
+  {
+    "url": "https://sdsc-scicomp.github.io/expanse-docs/using_gpu_nodes/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_using_gpu_nodes_-2026_09_10_05_23_02.report.html",
+    "jsonPath": "/home/zonca/zonca/p/software/project_work/expanse-docs/.lighthouseci/sdsc_scicomp_github_io-expanse_docs_using_gpu_nodes_-2026_09_10_05_23_02.report.json",
+    "summary": {
+      "accessibility": 0.8
+    }
+  }
+]
