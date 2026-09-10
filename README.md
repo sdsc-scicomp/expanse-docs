@@ -51,3 +51,7 @@ zensical build
 ### Publishing
 
 The site is published to GitHub Pages at [https://sdsc-scicomp.github.io/expanse-docs/](https://sdsc-scicomp.github.io/expanse-docs/) using the workflow in `.github/workflows/docs.yml`, which builds with Zensical and deploys the `site/` output via GitHub Pages on every push to `main`.
+
+### Accessibility check
+
+The workflow in `.github/workflows/lighthouse.yml` runs a [Lighthouse](https://github.com/GoogleChrome/lighthouse-ci) accessibility audit against the published pages on every push/PR and uploads the report as the `lighthouse-report` artifact. The build fails if a page drops below an accessibility score of `0.75`. Individual audit results are in `.lighthouserc.json`. The live reports are available in the Lighthouse report artifact of the latest run.

@@ -1,0 +1,37 @@
+{
+  "ci": {
+    "collect": {
+      "url": [
+        "https://sdsc-scicomp.github.io/expanse-docs/",
+        "https://sdsc-scicomp.github.io/expanse-docs/account_management/",
+        "https://sdsc-scicomp.github.io/expanse-docs/citations_and_publications/",
+        "https://sdsc-scicomp.github.io/expanse-docs/compiling_codes/",
+        "https://sdsc-scicomp.github.io/expanse-docs/composable_systems/",
+        "https://sdsc-scicomp.github.io/expanse-docs/data_movement/",
+        "https://sdsc-scicomp.github.io/expanse-docs/expanse_ai_resource/",
+        "https://sdsc-scicomp.github.io/expanse-docs/job_charging/",
+        "https://sdsc-scicomp.github.io/expanse-docs/modules/",
+        "https://sdsc-scicomp.github.io/expanse-docs/running_jobs_on_expanse/",
+        "https://sdsc-scicomp.github.io/expanse-docs/software/",
+        "https://sdsc-scicomp.github.io/expanse-docs/storage/",
+        "https://sdsc-scicomp.github.io/expanse-docs/system_access/",
+        "https://sdsc-scicomp.github.io/expanse-docs/technical_summary/",
+        "https://sdsc-scicomp.github.io/expanse-docs/using_gpu_nodes/"
+      ],
+      "numberOfRuns": 1,
+      "settings": {
+        "onlyCategories": ["accessibility"],
+        "chromeFlags": ["--no-sandbox", "--disable-gpu", "--disable-dev-shm-usage", "--headless=new"]
+      }
+    },
+    "assert": {
+      "assertions": {
+        "categories:accessibility": ["error", { "minScore": 0.75 }]
+      }
+    },
+    "upload": {
+      "target": "filesystem",
+      "outputDir": "./.lighthouseci"
+    }
+  }
+}

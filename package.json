@@ -1,0 +1,10 @@
+{
+  "name": "expanse-docs",
+  "private": true,
+  "scripts": {
+    "lhci": "lhci autorun"
+  },
+  "devDependencies": {
+    "@lhci/cli": "^0.15.1"
+  }
+}
